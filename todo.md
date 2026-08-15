@@ -12,5 +12,5 @@ So there's two ways to go with the agenda
 - Show events of next day at 11:30 pm
 - If there's still a current day event at 11:30 pm, show that event still and display upcoming events as well.
 
-
+test ruleset
 going for an ASCII art/ vintage/ retro style terminal display 
