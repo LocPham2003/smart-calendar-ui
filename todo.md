@@ -3,5 +3,6 @@
 - [ ] Add fetcher for google calendar API
 - [ ] Add fetcher for Spotify 
 - [ ] Make both look pretty
+- [ ] Dark mode and light mode
 
 going for an ASCII art/ vintage/ retro style terminal display 

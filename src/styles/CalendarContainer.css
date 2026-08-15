@@ -2,6 +2,25 @@
     outline: #5B5B5B solid 5px;
     width: 100%;
     margin: 20px 10px 20px 20px;
-    color: #AFAFAF;
     font-family: "MyOwnFont", sans-serif;
+}
+
+.calendar-events-container {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+}
+
+h2 {
+    color: #DB2D20
+}
+
+hr {
+    height: 5px;
+    border: none;
+    background-color: #5B5B5B;
+}
+
+.calendarEvent {
+    color: #F7F7F7
 }
