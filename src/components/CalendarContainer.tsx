@@ -11,14 +11,14 @@ function CalendarContainer() {
             <DateHighlightContainer/>
             <hr/>
             <ul className="calendar-events-container">
-                <CalendarEvent timeColor={"#01A0E4"} eventColor={"#FDED02"}/>
-                <CalendarEvent timeColor={"#01A0E4"} eventColor={"#FDED02"}/>
+                <CalendarEvent timeColor={"#01A0E4"} eventColor={"#CDAB53"}/>
+                <CalendarEvent timeColor={"#01A0E4"} eventColor={"#CDAB53"}/>
                 <CalendarEvent timeColor={"#01A252"} eventColor={"#01A252"}/>
-                <CalendarEvent timeColor={"#01A0E4"} eventColor={"#FDED02"}/>
-                <CalendarEvent timeColor={"#01A0E4"} eventColor={"#FDED02"}/>
-                <CalendarEvent timeColor={"#01A0E4"} eventColor={"#FDED02"}/>
-                <CalendarEvent timeColor={"#01A0E4"} eventColor={"#FDED02"}/>
-                <CalendarEvent timeColor={"#01A0E4"} eventColor={"#FDED02"}/>
+                <CalendarEvent timeColor={"#01A0E4"} eventColor={"#CDAB53"}/>
+                <CalendarEvent timeColor={"#01A0E4"} eventColor={"#CDAB53"}/>
+                <CalendarEvent timeColor={"#01A0E4"} eventColor={"#CDAB53"}/>
+                <CalendarEvent timeColor={"#01A0E4"} eventColor={"#CDAB53"}/>
+                <CalendarEvent timeColor={"#01A0E4"} eventColor={"#CDAB53"}/>
 
             </ul>
         </div>
