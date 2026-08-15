@@ -1,0 +1,43 @@
+.event-card {
+    box-sizing: border-box;
+    color: #F7F7F7;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.event-card * {
+    box-sizing: border-box;
+}
+
+.time-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid #F7F7F7;
+    width: 30%;
+}
+
+.time {
+    font-size: 0.9em;
+}
+
+.title-and-location-container {
+    width: 70%;
+    display: block;
+    padding-left: 10px;
+    font-size: 0.9em;
+}
+
+.title-and-location {
+    width: 100%;
+    text-align: left;
+}
+
+.event-divider {
+    height: 1px;
+    width: 100%;
+    border: none;
+    background-color: #F7F7F7;
+}
