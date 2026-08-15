@@ -1,0 +1,16 @@
+.date-highlight-container {
+    color: #F7F7F7;
+    display: block;
+    padding-left: 10px;
+}
+
+.date-highlight-title {
+    text-align: left;
+    color: #DB2D20;
+}
+
+.highlight-title {
+    text-align: left;
+    margin: 10px;
+    color: #B5E4F4;
+}
