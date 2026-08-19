@@ -8,8 +8,8 @@ function CalendarEvent({ timeColor, eventColor }: {timeColor: string, eventColor
                     <p className="time" style={{ color: timeColor }}>11:00 - 13:00</p>
                 </div>
                 <div className="title-and-location-container">
-                    <p className="title-and-location" style={{ color: eventColor }}>DND at zboink</p>
-                    <p className="title-and-location" style={{ color: eventColor }}>Achter Clarenburg 33A</p>
+                    <p className="title-and-location" style={{ color: eventColor }}>DND</p>
+                    <p className="title-and-location" style={{ color: eventColor }}>123 Voorstraat, 1234AB Amsterdam</p>
                 </div>
             </div>
             <hr className="event-divider"/>
